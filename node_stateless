@@ -1,0 +1,5 @@
+//This first step will install the molecular CLI as the framework for our new NodeJS stateless service
+npm install -g moleculer-cli
+
+//This second line will create a new service after installation using the first line
+moleculer init project-simple my-first-service
