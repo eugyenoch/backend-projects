@@ -3,3 +3,6 @@ npm install -g moleculer-cli
 
 //This second line will create a new service after installation using the first line
 moleculer init project-simple my-first-service
+
+//This third line will Install the molecular db module
+npm install moleculer-db --save
